@@ -41,15 +41,6 @@ This project is a **serverless web application** built using **AWS Lambda (Node.
 - **Amazon CloudFront**
 - **JavaScript (Fetch API)**
 
----
-
-### Author
-
-👤 **Pratik Prabhakar**
-
-- **LinkedIn:**  https://www.linkedin.com/in/pratikprab/
-- **GitHub:** https://github.com/pratikprab
-- **Personal note:** This project was built as part of my AWS Serverless learning to strengthen cloud development skills and hands-on implementation for real-world scalable applications.
 
 ---
 
